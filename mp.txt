@@ -3,7 +3,6 @@
 隨興旅－That′s Journey => Zatsu Tabi: That's Journey
 炎炎消防隊 參之章 => Enen no Shouboutai
 搞笑漫畫日和 GO => Gag Manga Biyori GO
-Koukaku Kidoutai: The Individual Eleven => {[tmdbid=3784;type=tv;s=2;e=0]} && OVA <>
 Ghost in the Shell：S.A.C. 2nd GIG => {[tmdbid=1095;type=tv;s=2]}
 Ghost in the Shell：STAND ALONE COMPLEX => Koukaku Kidoutai: STAND ALONE COMPLEX
 攻殻機動隊 STAND ALONE COMPLEX => Koukaku Kidoutai: STAND ALONE COMPLEX
